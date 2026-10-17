@@ -1,0 +1,8 @@
+# build & runtime output
+out/
+*.exe
+*.o
+
+# editor / OS cruft
+Thumbs.db
+Desktop.ini
